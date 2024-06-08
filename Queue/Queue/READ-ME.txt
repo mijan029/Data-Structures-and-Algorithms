@@ -1,0 +1,5 @@
+QueueADT: ADT of the queue data structure
+Queue-Arr-Implementation: Array based implementation of the queue ADT
+Queue-LinkedList-Implementation: Linked List based implementation of the queueADT
+QueueMain: Main method to demonstrate above two implementations
+Queue-Bank: solution of the task-2

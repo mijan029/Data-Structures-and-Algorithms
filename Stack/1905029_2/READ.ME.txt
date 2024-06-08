@@ -1,0 +1,7 @@
+Introduction of the source files:
+1) Stack_ADT: ADT of Stack.
+2) Arr_Based_stack: Array based implementation of Stack ADT.
+3) LL_Based_stack: Linked List based implementation of Stack ADT.
+4) main: input output simulation of the stacks.
+5) DW: Dishwasher problem of task 2. A and B implementation.
+6) twoArrDW: C no. implementation of task 2.
